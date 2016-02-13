@@ -9,7 +9,10 @@ plugins=(
 	git 
 	bundler
 	osx
-	z,
+	z
 	sublime
+	npm
+	bower
+	extract
+	brew
 )
-
