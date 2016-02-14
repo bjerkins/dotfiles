@@ -15,4 +15,8 @@ plugins=(
 	bower
 	extract
 	brew
+	thefuck
+	pip
+	command-not-found
 )
+

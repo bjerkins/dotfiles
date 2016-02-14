@@ -11,6 +11,7 @@ brew 'readline'
 brew 'postgresql'
 brew 'unrar'
 brew 'wget'
+brew 'thefuck'
 
 cask '1password'
 cask 'google-chrome'
